@@ -1,4 +1,4 @@
-﻿using Automation;
+﻿using otomasion;
 using System.Linq;
 
 internal class Program
